@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm a Backend Developer working with(Djang & FastAPI)
+passionate about Ai and DSA
 <!--
 **AmrKallab/AmrKallab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
