@@ -9,4 +9,4 @@ I enjoy solving problems, designing backend systems, and turning application req
 ## Connect With Me
 
 - LinkedIn: [Amr Kallab](https://www.linkedin.com/in/amrkallab/)
-- Email : [amrkallab@gmail.com]
+- Email : [amrkallab@gmail.com][amrkallab@gmail.com]
